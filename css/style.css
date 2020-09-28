@@ -329,14 +329,13 @@ body {
   width: 55%;
   height: 110%;
   border-radius: 30px;
-  background-color: rgba(74, 236, 25, 0.7);
-  color: white;
+  background-image: linear-gradient(to right, rgba(74, 236, 25), rgb(248, 235, 57));
   font-weight: 600;
   font-size: 1.1rem;
 }
 
 .btn-prd-left>a:hover {
-  color: white;
+  /* color: white; */
   text-decoration: none;
 }
 
@@ -344,21 +343,18 @@ body {
   width: 55%;
   height: 110%;
   border-radius: 30px;
-  background-color: rgba(74, 236, 25, 0.7);
-  color: white;
+  background-image: linear-gradient(to right, rgba(74, 236, 25), rgb(248, 235, 57));
   font-weight: 600;
   font-size: 1.1rem;
 }
 
 .btn-prd-right>a:hover {
-  color: white;
   text-decoration: none;
 }
 
 .gach-ngang {
   width: 100%;
-  border: 1px solid;
-  color: cornflowerblue;
+  border: 1px solid rgba(74, 236, 25);
 }
 
 /* SKILL */
