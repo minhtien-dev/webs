@@ -231,19 +231,31 @@
   }
 
   .main-blog>div {
-    width: 60vh;
+    width: 55vh;
+  }
+
+  .main-prd-blog>h4 {
+    font-size: 1.1rem;
+  }
+
+  .main-prd-blog>p {
+    font-size: 1rem;
+    font-weight: 450;
   }
 
   .prd-timeline-1 {
     width: 90%;
+    height: 40vh;
   }
 
   .prd-timeline-2 {
     width: 90%;
+    height: 40vh;
   }
 
   .prd-timeline-3 {
     width: 90%;
+    height: 40vh;
   }
 
   .item-prd-1>h4 {
