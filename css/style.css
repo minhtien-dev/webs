@@ -656,5 +656,5 @@ body {
 
 #mobile {
   display: none;
-  transition-timing-function: linear;
+  /* transition-timing-function: linear; */
 }
