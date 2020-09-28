@@ -1,0 +1,274 @@
+@media only screen and (max-width: 1199.98px) and (min-width: 992px) {
+  .conten>p {
+    font-size: 0.9rem;
+    font-weight: 450;
+  }
+
+  .btn-prd a {
+    font-size: 0.9rem;
+    /* color: brown; */
+  }
+
+  .btn-blog>span {
+    font-size: 0.8rem;
+    color: black;
+  }
+
+  .main-prd-blog>p {
+    font-size: 0.8rem;
+    font-weight: 450;
+  }
+
+  .avt-prd-blog {
+    height: 10%;
+  }
+}
+
+/*  */
+@media only screen and (max-width: 991.98px) and (min-width: 768px) {
+  .right-about {
+    /* background-color: brown; */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .right-about>p {
+    font-size: 1rem;
+    margin-left: 20px;
+    font-weight: 500;
+  }
+
+  .item-prd-1>h4 {
+    /* color: brown; */
+    font-size: 1.3rem;
+  }
+
+  .item-prd-1>p {
+    /* color: brown; */
+    font-size: 0.95rem;
+  }
+
+  .item-prd-2>h4 {
+    font-size: 1.3rem;
+  }
+
+  .item-prd-2>p {
+    font-size: 0.95rem;
+  }
+
+  .avt-prd-blog {
+    height: 12%;
+  }
+
+  .btn-blog {
+    background-color: green;
+    height: 10%;
+  }
+
+  .main-prd-blog>h4 {
+    font-size: 1.3rem;
+  }
+
+  .main-prd-blog>p {
+    font-weight: 500;
+  }
+}
+
+/*  */
+@media only screen and (max-width: 767.98px) and (min-width: 0px) {
+  .menu {
+    display: none;
+  }
+
+  .main-avatar .main .main-left {
+    height: 30vh;
+    /* background-color: blue; */
+    margin-left: 10vh;
+    margin-top: 5vh;
+  }
+
+  .main-left .underline {
+    /* margin-bottom: -10vh; */
+  }
+
+  .main-avatar .main .main-right {
+    height: 60vh;
+    margin-top: 10vh;
+    justify-content: flex-start;
+    margin-left: 13vh;
+    /* background-color: aqua; */
+    margin-top: 10px;
+  }
+
+  .main-avatar .main .main-left>h1 {
+    font-size: 3rem;
+    /* margin-top: 10vh; */
+  }
+
+  .main-avatar .main .main-left>h4 {
+    font-size: 1.2rem;
+  }
+
+  .main-right .rigth-avt>img {
+    margin-top: -30px;
+    margin-left: -30px;
+  }
+
+  .main-about .left-about {
+    display: none;
+  }
+
+  .menu-mobi {
+    display: block;
+    height: 10vh;
+    /* background-color: aqua; */
+    margin-bottom: -6vh;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+  }
+
+  .menu-mobi>i {
+    font-size: 2rem;
+    color: #f64c72;
+    cursor: pointer;
+  }
+
+  /* menu mobile */
+
+  .menu-mobile {
+    height: 100vh;
+    background-color: #332c38;
+  }
+
+  .icon-mobile-close {
+    height: 15vh;
+    /* background-color: aqua; */
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+  }
+
+  .icon-mobile-close>i {
+    font-size: 3rem;
+    color: #f64c72;
+    margin-right: 5vh;
+    cursor: pointer;
+  }
+
+  .list-menu-mobi {
+    height: 60vh;
+    /* background-color: blue; */
+  }
+
+  .list-menu-mobi>nav {
+    /* background-color: brown; */
+    width: 100%;
+    height: inherit;
+  }
+
+  .list-menu-mobi>nav>ul {
+    /* background-color: aliceblue; */
+    width: 100%;
+    height: inherit;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .list-menu-mobi>nav>ul>li {
+    list-style: none;
+    /* background-color: black; */
+    margin-top: 2vh;
+  }
+
+  .list-menu-mobi>nav>ul>li>a {
+    font-size: 2rem;
+    color: white;
+    transition: color 1s;
+  }
+
+  .list-menu-mobi>nav>ul>li>a:hover {
+    text-decoration: none;
+    color: #f64c72;
+  }
+
+  .icon-menu-mobi {
+    height: 25vh;
+    /* background-color: blue; */
+    display: flex;
+    justify-content: center;
+  }
+
+  .icon-menu-mobi>i {
+    font-size: 2rem;
+    margin: 3vh;
+    color: white;
+    transition: color 1s;
+    cursor: pointer;
+  }
+
+  .icon-menu-mobi>i:hover {
+    color: #f64c72;
+  }
+
+  .main-project>div {
+    height: 70vh;
+    width: 60vh;
+  }
+
+  .main-project {
+    /* background-color: blue; */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .main-skill>div {
+    width: 70vh;
+  }
+
+  .main-blog>div {
+    width: 60vh;
+  }
+
+  .prd-timeline-1 {
+    width: 90%;
+  }
+
+  .prd-timeline-2 {
+    width: 90%;
+  }
+
+  .prd-timeline-3 {
+    width: 90%;
+  }
+
+  .item-prd-1>h4 {
+    /* color: brown; */
+    font-size: 1.3rem;
+  }
+
+  .item-prd-1>p {
+    /* color: brown; */
+    font-size: 0.95rem;
+  }
+
+  .item-prd-2>h4 {
+    font-size: 1.3rem;
+  }
+
+  .item-prd-2>p {
+    font-size: 0.95rem;
+  }
+
+  .item-foodter>h4 {
+    font-size: 1.2rem;
+  }
+
+  .icon-foodter>i {
+    font-size: 1.5rem;
+  }
+}
