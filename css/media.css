@@ -122,17 +122,20 @@
   .menu-mobi {
     display: block;
     height: 10vh;
-    /* background-color: aqua; */
     margin-bottom: -6vh;
     display: flex;
     align-items: center;
-    justify-content: flex-end;
   }
 
   .menu-mobi>i {
     font-size: 2rem;
     color: #f64c72;
     cursor: pointer;
+    position: fixed;
+    top: 0;
+    right: 0;
+    margin-top: 20px;
+    margin-right: 20px;
   }
 
   /* menu mobile */
